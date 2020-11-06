@@ -1,0 +1,71 @@
+body{
+    font-family: 'Grandstander', cursive;
+    background-color: rgb(201, 251, 255);
+}
+
+#logo {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+
+h2{
+    font-size: 35px;
+    font-weight: bold;
+}
+
+label {
+    font-size: 25px;
+    width: 360px;
+    padding: 10px;
+    margin-bottom: 0px;
+    background-color: white;
+    box-shadow: 5px 5px 18px white;
+}
+
+button {
+    font-size: 25px;
+    width: 360px;
+    box-shadow: 5px 5px 18px white;
+    border: 1px solid;
+}
+
+#camera, #result {
+    border: solid 2px white;
+    width: 360px;
+    height: 310px;
+    box-shadow: 5px 5px 18px white;
+}
+
+.main_div {
+    background-color: rgb(181, 250, 255);
+    border: solid 3px dodgerblue;
+    padding: 10px;
+}
+
+.footer_div {
+    margin-bottom: 50px;
+}
+
+.footer_div h4 {
+    font-size: 25px;
+    width: 360px;
+    padding: 10px;
+    background-color: white;
+    box-shadow: 5px 5px 18px rgb(185, 185, 185);
+}
+
+.footer_div img {
+    width: 70px;
+    height: 70px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    line-height: 3;
+    text-align: center;
+}
